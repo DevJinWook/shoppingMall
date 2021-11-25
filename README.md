@@ -1,2 +1,2 @@
 # shoppingMall
-Shop Layout
+Spring Boot Shopping Mall Project
