@@ -1,0 +1,20 @@
+.bg-primary {
+    background-color: #ecd0c7 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fafbfd;
+    font-weight: bold;
+}
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: wheat;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fafbfd;
+}
+
+#navbarTogglerDemo03 > form > button {
+    color: #fafbfd;
+    border-color: #fafbfd;
+}
