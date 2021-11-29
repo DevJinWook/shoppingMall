@@ -1,5 +1,5 @@
 .bg-primary {
-    background-color: #ecd0c7 !important;
+    background-color: #ec9488 !important;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -7,7 +7,7 @@
     font-weight: bold;
 }
 .navbar-dark .navbar-nav .nav-link:hover {
-    color: wheat;
+    color: #ebd6b1;
 }
 
 .navbar-dark .navbar-brand {
@@ -17,4 +17,8 @@
 #navbarTogglerDemo03 > form > button {
     color: #fafbfd;
     border-color: #fafbfd;
+}
+
+#navbarTogglerDemo03 > form > button:hover {
+    background-color: #ebd6b1;
 }
